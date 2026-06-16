@@ -204,30 +204,6 @@ Topics Covered:
 
 ---
 
-## 📈 Performance Metrics
-
-<table>
-  <tr>
-    <td align="center">
-      <strong>Languages Proficient</strong><br>
-      <code>5+ Languages</code><br>
-      Python, R, SQL, HTML, CSS
-    </td>
-    <td align="center">
-      <strong>Databases Experienced</strong><br>
-      <code>5+ Databases</code><br>
-      MongoDB, Redshift, Teradata, PostgreSQL, SQL Server
-    </td>
-    <td align="center">
-      <strong>Cloud Platforms</strong><br>
-      <code>AWS & Docker</code><br>
-      Infrastructure Ready
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🤝 Let's Connect!
 
 <div align="center">
