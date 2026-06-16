@@ -1,18 +1,4 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrng815/giphy.gif" width="28"> Hey there! I'm Sejal Patil
-
-<div align="center">
-  
-  ![Python](https://img.shields.io/badge/python-v3.9+-blue.svg?style=for-the-badge&logo=python&logoColor=white)
-  ![R](https://img.shields.io/badge/R-276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL-Expert-orange.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![PowerBI](https://img.shields.io/badge/PowerBI-Analyst-yellow.svg?style=for-the-badge&logo=powerbi&logoColor=black)
-  ![Status](https://img.shields.io/badge/Status-Learning%20%26%20Growing-brightgreen?style=for-the-badge)
-
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sejal-patil-2681a2209/)
-  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sejalpatil-29)
-
-</div>
-
 ---
 
 ## <img src="https://media.giphy.com/media/W5eoZHd50xyYW3bxmk/giphy.gif" width="25"> About Me
