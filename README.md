@@ -22,7 +22,7 @@
 
 ```yaml
 👨‍💻 Full-Stack Developer & Data Scientist
-📍 Location: India
+📍 Location: USA
 🎯 Current Focus: Algorithm Mastery, Data Analytics & Cloud Architecture
 💭 Philosophy: "Clean code with scalable solutions"
 ⚡ Fun Fact: I love solving puzzles and building things!
@@ -416,7 +416,6 @@ I'm always open to:
 |----------|------|
 | **LinkedIn** | [sejal-patil-2681a2209](https://www.linkedin.com/in/sejal-patil-2681a2209/) |
 | **GitHub** | [sejalpatil-29](https://github.com/sejalpatil-29) |
-| **Email** | [your.email@example.com](mailto:your.email@example.com) |
 
 </div>
 
