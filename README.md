@@ -27,7 +27,7 @@
 <div align="center">
 
 ### 🐍 **Programming Languages**
-![Python](https://shields.io)
+<img src="https://jsdelivr.net" width="45" height="45" alt="Python" />&nbsp;
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34C26?style=for-the-badge&logo=html5&logoColor=white)
