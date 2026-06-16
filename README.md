@@ -241,46 +241,6 @@ I'm always open to:
 
 ---
 
-## 🎓 Tech Categories I Specialize In
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  PROGRAMMING LANGUAGES & FRAMEWORKS                         │
-│  Python | R | SQL | HTML | CSS                             │
-└─────────────────────────────────────────────────────────────┘
-
-┌─────────────────────────────────────────────────────────────┐
-│  DATABASES & DATA WAREHOUSES                                │
-│  MongoDB | Redshift | Teradata | PostgreSQL | SQL Server   │
-└─────────────────────────────────────────────────────────────┘
-
-┌─────────────────────────────────────────────────────────────┐
-│  CLOUD & CONTAINER TECHNOLOGIES                             │
-│  AWS | Docker | AWS Console                                 │
-└─────────────────────────────────────────────────────────────┘
-
-┌─────────────────────────────────────────────────────────────┐
-│  DATA ANALYTICS & VISUALIZATION                             │
-│  PowerBI | Tableau | Excel                                  │
-└─────────────────────────────────────────────────────────────┘
-
-┌─────────────────────────────────────────────────────────────┐
-│  MACHINE LEARNING & DATA SCIENCE                            │
-│  Scikit-Learn | Pandas | NumPy                              │
-└─────────────────────────────────────────────────────────────┘
-
-┌─────────────────────────────────────────────────────────────┐
-│  VERSION CONTROL & DEVELOPMENT TOOLS                        │
-│  Git | GitHub | VS Code | Jupyter                          │
-└─────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
 ## 🎮 Fun Section
 
 <div align="center">
