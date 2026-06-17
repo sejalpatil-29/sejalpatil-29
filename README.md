@@ -27,9 +27,9 @@
 <div align="center">
 
 ### 🐍 **Programming Languages**
-<img src="https://jsdelivr.net" width="45" height="45" alt="Python" />&nbsp;
+[<img src="https://jsdelivr.net" width="45" height="45" alt="Python" />&nbsp;](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg
 ![HTML](https://img.shields.io/badge/HTML-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
