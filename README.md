@@ -79,7 +79,7 @@
 
 | Category | Technologies | Proficiency |
 |----------|--------------|-------------|
-| **Programming Languages** | Python, R, SQL, HTML, CSS | ⭐⭐⭐⭐⭐ |
+| **Programming Languages** | Python, R, SQL | ⭐⭐⭐⭐⭐ |
 | **Databases & DW** | MongoDB, Redshift, Teradata, PostgreSQL, SQL Server | ⭐⭐⭐⭐⭐ |
 | **Cloud & DevOps** | AWS, Docker, AWS Console | ⭐⭐⭐⭐ |
 | **Data Analytics** | PowerBI, Tableau, Excel | ⭐⭐⭐⭐⭐ |
@@ -230,6 +230,7 @@ I'm always open to:
 |----------|------|
 | **LinkedIn** | [sejal-patil-2681a2209](https://www.linkedin.com/in/sejal-patil-2681a2209/) |
 | **GitHub** | [sejalpatil-29](https://github.com/sejalpatil-29) |
+| **HackerRank** | [@itssejal04](https://www.hackerrank.com/profile/itssejal04) |
 
 </div>
 
