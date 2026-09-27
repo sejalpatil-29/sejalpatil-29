@@ -6,7 +6,7 @@
 <img align="right" width="300" src="https://media.giphy.com/media/iIqmM5tMUEUM8/giphy.gif" alt="developer"/>
 
 ```yaml
-👨‍💻 Full-Stack Developer & Data Scientist
+👨‍💻 Full-Stack Developer & Data Enthusisast
 📍 Location: USA
 🎯 Current Focus: Algorithm Mastery, Data Analytics & Cloud Architecture
 💭 Philosophy: "Clean code with scalable solutions"
